@@ -1,8 +1,81 @@
 [
     {
+        "name": "Mario",
+        "id": "1TDk1DCdYK6RFl-dg-HnNcnUV3MZ3MNwC",
+        "type": "Homemade",
+        "style": "CL2K",
+        "content": [
+            "Logo's are bottom aligned on the main text, not the logo as a whole"
+        ]
+    },
+    {
+        "name": "BZ",
+        "id": "1cEIuJRr8AZcthyVWfNn2skxog6R_MPrW",
+        "type": "Homemade",
+        "style": "CL2K",
+        "content": [
+            ""
+        ]
+    },
+    {
+        "name": "Lion City Gaming",
+        "id": "1gJ_CXigGfZDJV5C3ZTaTz_yycgkROTJF",
+        "type": "Homemade",
+        "style": "CL2K",
+        "content": [
+            ""
+        ]
+    },
+    {
+        "name": "TokenMinal",
+        "id": "1FyjcjsP5Yb0w3u6QZHbjJ51j5zTT8lA5",
+        "type": "Homemade",
+        "style": "CL2K",
+        "content": [
+            "Anime"
+        ]
+    },
+    {
+        "name": "Jpalenz77",
+        "id": "1kLvAjMx3jcJbRKjuMYTrUaA4hR4N8wfh",
+        "type": "Homemade",
+        "style": "CL2K",
+        "content": [
+            "Only new content as of 28-06-2025"
+        ]
+    },
+    {
+        "name": "MiniMyself",
+        "id": "1MNpR2fVRJt6bW5NIBPR43f6GvINcrw_o",
+        "type": "Homemade",
+        "style": "CL2K",
+        "content": [
+            ""
+        ]
+    },
+    {
+        "name": "IamSpartacus",
+        "id": "179QKyeP3avZvC_t4Fvk2Mm1nfRyuKvoc",
+        "type": "Homemade",
+        "style": "CL2K",
+        "content": [
+            ""
+        ]
+    },
+    {
+        "name": "Dweagle79",
+        "id": "1R4tDkZVyG7iEbQ4DNbUPiPGfslPkcWmU",
+        "type": "Homemade",
+        "style": "CL2K",
+        "content": [
+            ""
+        ]
+    },
+    {
         "name": "Solen Collection",
         "id": "1zWY-ORtJkOLcQChV--oHquxW3JCow1zm",
         "type": "Collection",
+        "style": "MM2K",
         "content": [
             "Collection of others"
         ]
@@ -11,6 +84,7 @@
         "name": "MajorGiant Collection",
         "id": "15sNlcFZmeDox2OQJyGjVxRwtigtd82Ru",
         "type": "Collection",
+        "style": "MM2K",
         "content": [
             "Collection of others"
         ]
@@ -19,6 +93,7 @@
         "name": "Chris DC",
         "id": "1oBzEOXXrTHGq6sUY_4RMtzMTt4VHyeJp",
         "type": "Homemade",
+        "style": "MM2K",
         "content": [
             "No sequel background",
             "Posters with small 'THE'/'A' overlay",
@@ -29,6 +104,7 @@
         "name": "Jpalenz77",
         "id": "1qBC7p9K4zur5dOCf3F6VTyUROVvHQoSb",
         "type": "Homemade",
+        "style": "MM2K",
         "content": [
             "Mostly niche media"
         ]
@@ -37,6 +113,7 @@
         "name": "WenIsInMood",
         "id": "1Wz0S18sKOeyBURkJ1uT3RtkEmSsK1-PG",
         "type": "Homemade",
+        "style": "MM2K",
         "content": [
             "Animes",
             "Chinese, Japanese & Korean shows"
@@ -46,6 +123,7 @@
         "name": "Darkkazul",
         "id": "1ejgRXwX6opexs8oAX8CnpSpKQt7Hrf00",
         "type": "Homemade",
+        "style": "MM2K",
         "content": [
             "Animes",
             "Chinese, Japanese & Korean shows and movies"
@@ -55,6 +133,7 @@
         "name": "Reitenth",
         "id": "1cqDinU27cnHf5sL5rSlfO7o_T6LSxG77",
         "type": "Homemade",
+        "style": "MM2K",
         "content": [
             "95% Anime"
         ]
@@ -63,6 +142,7 @@
         "name": "TheOtherGuy (#2)",
         "id": "15faKB1cDQAhjTQCvj8MvGUQb0nBORWGC",
         "type": "Homemade",
+        "style": "MM2K",
         "content": [
             "OG titles: German"
         ]
@@ -71,6 +151,7 @@
         "name": "TheOtherGuy (#1)",
         "id": "1TYVIGKpSwhipLyVQQn_OJHTobM6KaokB",
         "type": "Homemade",
+        "style": "MM2K",
         "content": [
             "Movie, Series and Collection poster all in mm2k style with black gradient"
         ]
@@ -79,6 +160,7 @@
         "name": "Dweagle76",
         "id": "1XXZL-TpqWqfbKBWCifN2-MRdGDbSzHTj",
         "type": "Homemade",
+        "style": "MM2K",
         "content": [
             "Requests",
             "Variants"
@@ -88,6 +170,7 @@
         "name": "MiniMyself",
         "id": "1Ec0PVQv_AU6S-2q6UE1Eoivfwo0DUnyS",
         "type": "Homemade",
+        "style": "MM2K",
         "content": [
             "Missing posters",
             "Variants"
@@ -97,6 +180,7 @@
         "name": "Kalyanrajnish",
         "id": "1Kb1kFZzzKKlq5N_ob8AFxJvStvm9PdiL",
         "type": "Homemade",
+        "style": "MM2K",
         "content": [
             "Mostly Indian media"
         ]
@@ -105,6 +189,7 @@
         "name": "TokenMinal",
         "id": "1KJlsnMz-z2RAfNxKZp7sYP_U0SD1V6lS",
         "type": "Homemade",
+        "style": "MM2K",
         "content": [
             "Mostly Anime",
             "Some French media"
@@ -114,6 +199,7 @@
         "name": "Mareau - Archived",
         "id": "1NxQS4-9tqixppEu08N69Zs8v1xUbvs7b",
         "type": "Archived",
+        "style": "MM2K",
         "content": [
             "Mostly Anime/WebTV media"
         ]
@@ -122,6 +208,7 @@
         "name": "Overbook874 (Tarantula212)",
         "id": "1LIVG1RbTEd7tTJMbzZr7Zak05XznLFia",
         "type": "Homemade",
+        "style": "MM2K",
         "content": [
             "Mostly Bollywood/Indian media"
         ]
@@ -130,6 +217,7 @@
         "name": "Dsaq",
         "id": "1wrSru-46iIN1iqCl2Cjhj5ofdazPgbsz",
         "type": "Homemade",
+        "style": "MM2K",
         "content": [
             "Mostly Dutch media"
         ]
@@ -138,6 +226,7 @@
         "name": "Quafley",
         "id": "1G77TLQvgs_R7HdMWkMcwHL6vd_96cMp7",
         "type": "Homemade",
+        "style": "MM2K",
         "content": [
             "Main focus is around animes (especially older lesser known ones). This includes movies."
         ]
@@ -146,6 +235,7 @@
         "name": "Stupifier",
         "id": "1bBbK_3JeXCy3ElqTwkFHaNoNxYgqtLug",
         "type": "Homemade",
+        "style": "MM2K",
         "content": [
             ""
         ]
@@ -154,6 +244,7 @@
         "name": "Sahara",
         "id": "1KnwxzwBUQzQyKF1e24q_wlFqcER9xYHM",
         "type": "Homemade",
+        "style": "MM2K",
         "content": [
             ""
         ]
@@ -162,6 +253,7 @@
         "name": "MajorGiant",
         "id": "1ZfvUgN0qz4lJYkC_iMRjhH-fZ0rDN_Yu",
         "type": "Homemade",
+        "style": "MM2K",
         "content": [
             "White text versions of black text MM2K posters"
         ]
@@ -170,6 +262,7 @@
         "name": "Lion City Gaming",
         "id": "1alseEnUBjH6CjXh77b5L4R-ZDGdtOMFr",
         "type": "Homemade",
+        "style": "MM2K",
         "content": [
             "White text versions of black text MM2K posters"
         ]
@@ -178,6 +271,7 @@
         "name": "IamSpartacus",
         "id": "1HjwMWfI6XpQVYH36VBzYiJA4UWfoqcQ9",
         "type": "Homemade",
+        "style": "MM2K",
         "content": [
             "White text versions of black text MM2K posters",
             "No sequel background"
@@ -187,6 +281,7 @@
         "name": "BZ",
         "id": "1Xg9Huh7THDbmjeanW0KyRbEm6mGn_jm8",
         "type": "Homemade",
+        "style": "MM2K",
         "content": [
             "White text versions of black text MM2K posters"
         ]
@@ -195,6 +290,7 @@
         "name": "Solen",
         "id": "1YEuS1pulJAfhKm4L8U9z5-EMtGl-d2s7",
         "type": "Homemade",
+        "style": "MM2K",
         "content": [
             "Contains no-gradient versions of MM2K posters",
             "Different season posters per show"
@@ -204,6 +300,7 @@
         "name": "Zarox",
         "id": "1wOhY88zc0wdQU-QQmhm4FzHL9QiCQnpu",
         "type": "Homemade",
+        "style": "MM2K",
         "content": [
             "White text versions of black text MM2K posters"
         ]
@@ -212,6 +309,7 @@
         "name": "Drazzilb",
         "id": "1fKRkx4Yine5cqkH411FmShdd-wHRMBIF",
         "type": "Homemade",
+        "style": "MM2K",
         "content": [
             "MM2K"
         ]
